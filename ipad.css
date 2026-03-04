@@ -43,7 +43,7 @@
 
 	.Main-content h3 {
 		padding:10px;
-    		font-size: 26px;
+    	font-size: 26px;
   	}
 
 	.Main-content-info{
@@ -161,6 +161,6 @@
 	section.active .model-box{
 		opacity:1;
 		pointer-events:auto;
-		transform:translate(0%,0%) scale(1.2);
+		transform:translate(0%,0%) scale(0.9);
 	}
 }
